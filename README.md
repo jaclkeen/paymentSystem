@@ -1,1 +1,1 @@
-#Payment System written in C/#
+#Payment System
